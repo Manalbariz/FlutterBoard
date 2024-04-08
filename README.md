@@ -1,5 +1,5 @@
-<h1 align="center">Trello Flutter</h1>
-## Application Trello Clone avec Flutter
+<h1 align="center">Application Trello avec Flutter</h1>
+
 
 Ce projet est une application mobile développée en binôme dans le cadre d'un projet à Epitech par Manal Bariz et Anthony Scrimaly. L'application vise à reproduire les fonctionnalités principales de Trello en utilisant son API. Elle permet de gérer des tableaux, des listes et des cartes de manière intuitive et efficace, tout en exploitant les fonctionnalités offertes par Trello.
 
@@ -9,7 +9,6 @@ Ce projet est une application mobile développée en binôme dans le cadre d'un 
 - Affichage des détails des cartes.
 
 ## Prérequis
-
 Avant de pouvoir exécuter cette application, assurez-vous de disposer des éléments suivants :
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) installé sur votre machine.
